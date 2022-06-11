@@ -4,7 +4,6 @@ import Navbar from './Components/Navbar';
 import Home from './Components/Home';
 import Login from './Components/Login';
 import Signup from './Components/Signup';
-import About from './Components/About';
 import NoteState from './Context/notes/NoteState';
 import Alert from './Components/Alert';
 import { useState } from 'react';
